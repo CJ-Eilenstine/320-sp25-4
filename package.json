@@ -1,0 +1,23 @@
+{
+  "name": "320-sp25-4",
+  "version": "0.1.0",
+  "bin": {
+    "create-cjizle-app": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "templates/",
+    "readme.md"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "fs": "node fs.js",
+    "path": "node path.js",
+    "index": "node index.js",
+    "test": "set TEST && node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
